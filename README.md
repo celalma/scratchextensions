@@ -26,4 +26,4 @@ Turbowarp and Penguimod already have some more custom extensions. If you head to
 
 It's quite easy — even without any Javascript or even programming knowledge, you can create your own extensions. Knowing some Jawascript may help you, but you can start from scratch. Get yourslef a code editor that you can write Javacript in (VS Code, Noyepade++,...) or just open a text editor such as notepad. Then, follow our guide here :
 
-### [Beginner guide on how to start creating your extension]()
+### [ 1. Beginner guide on how to start creating your extension]()
