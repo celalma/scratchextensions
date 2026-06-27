@@ -30,6 +30,7 @@ Turbowarp and Penguimod already have some more custom extensions. If you head to
 It's quite easy — even without any Javascript or even programming knowledge, you can create your own extensions. Knowing some Jawascript may help you, but you can start from scratch. Get yourslef a code editor that you can write Javacript in (VS Code, Noyepade++,...) or just open a text editor such as notepad. Then, follow our guide here :
 
 ### [ 1. Beginner guide on how to start creating your extension](https://github.com/celalma/scratchextensions/blob/main/guide/BeginnerGuide)
+### [General Guide](https://github.com/celalma/scratchextensions/blob/main/guide/BeginnerGuide)
 
 [^1]: If this isn't enough for you, there is an official Turbowarp guide on how to create custom extensions. You can check it out [here](https://docs.turbowarp.org/development/extensions/introduction)
 [^2]: If you see some problems or have a suggestion,feel free to open a *pull request*.
